@@ -88,7 +88,7 @@ export default function Page() {
             Your all-in-one solution for expense tracking, financial insights, and personal journaling.
           </p>
           <a
-            href="https://expo.dev/artifacts/eas/aRQsHzTEH5BFv5f56ZLQj2.apk"
+            href="https://expo.dev/artifacts/eas/tfGDgsb4fatRbgwpgUJt5M.apk"
             className="inline-flex items-center px-8 py-4 bg-gradient-to-r from-teal-500 to-emerald-500 text-white rounded-lg hover:from-teal-400 hover:to-emerald-400 transition-all transform hover:scale-105 hover:shadow-lg hover:shadow-teal-500/25 animate-bounce-subtle"
           >
             <Download className="mr-2" />
