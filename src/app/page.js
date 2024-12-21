@@ -61,9 +61,9 @@ export default function Page() {
               href="https://www.linkedin.com/in/shubham-chede-2957bb278"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-teal-400 hover:text-teal-300 transition-colors flex items-center group"
+              className="text-teal-400 hover:text-teal-300 transition-colors flex items-center group text-sm"
             >
-              Connect with Developer
+              Connect with <br></br> Developer
               <ArrowRight className="ml-2 transform group-hover:translate-x-1 transition-transform" />
             </a>
           </div>
@@ -183,3 +183,5 @@ export default function Page() {
     </div>
   );
 }
+
+
